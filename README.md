@@ -1,2 +1,2 @@
-# helloWMD
+# HelloWMD
 My first repository
